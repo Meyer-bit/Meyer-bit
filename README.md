@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm like programming; I do so many things about technology. Thanks for being in my profile.<br><br><br>
+Hello, I do so many things about technology. Thanks for being in my profile.<br><br><br>
 
 
 ## 🌐 Socials:
