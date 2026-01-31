@@ -23,6 +23,7 @@ Hello, I do so many things about technology. Thanks for being in my profile.<br>
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%2300AEEF.svg?style=for-the-badge&logo=databricks&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-%23FF6600.svg?style=for-the-badge&logo=elastic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
