@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo João Meyer, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes - UNIT.<br><br><br>
+Me chamo João Meyer, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes - UNIT.<br><br><br>
 
 
 ## 🌐 Socials:
